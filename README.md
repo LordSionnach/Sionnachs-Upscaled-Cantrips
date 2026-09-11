@@ -1,3 +1,4 @@
+Manifest Link: https://github.com/LordSionnach/Sionnachs-Upscaled-Cantrips/releases/download/v1.3.0/module.json
 # IMPORTANT NOTE
 This module is made completely by using ChatGPT. I make no promises for how it functions in combination with other modules, nor do I take any credit for creating it. I have very little skill in coding, but I wanted a module that did this for my own game, so this is the result.
 
