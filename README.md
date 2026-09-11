@@ -1,3 +1,6 @@
+# IMPORTANT NOTE
+This module is made completely by using ChatGPT. I make no promises for how it functions in combination with other modules, nor do I take any credit for creating it. I have very little skill in coding, but I wanted a module that did this for my own game, so this is the result.
+
 # Sionnach's Upscaled Cantrips
 
 For Foundry VTT 14.364 and D&D 5e 5.3.3.
