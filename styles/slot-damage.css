@@ -1,0 +1,7 @@
+.sionnach-slot-damage { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--dnd5e-color-gold, #9f9275); }
+.sionnach-slot-damage h4 { margin: 0 0 6px; font-size: var(--font-size-12); }
+.sionnach-slot-damage .field-group { display: flex; gap: 4px; }
+.sionnach-slot-damage .field-group > .form-group { flex: 1; min-width: 0; }
+.sionnach-slot-damage > .form-group { padding-top: 10px; }
+.sionnach-slot-damage input, .sionnach-slot-damage select { min-width: 0; }
+.sionnach-slot-damage .hint { margin: 4px 0; font-size: var(--font-size-11); }
